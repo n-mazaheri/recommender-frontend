@@ -80,3 +80,9 @@ MIT License
 
 ## 👨‍💻 Author
 Developed by [Nasrin Mazaheri](https://github.com/n-mazaheri/recommender-frontend)
+
+
+📞 Support
+If you have any questions or issues, please open an issue on GitHub or contact me at [na.mazaheri@yahoo.com].
+
+⭐ Star this repo if you found it helpful!
